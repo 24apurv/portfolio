@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Check out the portfolio at https://24apurv.github.io/portfolio
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
